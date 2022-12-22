@@ -5,7 +5,7 @@ The Problem 1: "Does the people not understand each other?";
 The Problem 2: "Does the humanity not understand each other?";
 The Problem 3: "Does a machine/computer/robot not understand each other?".
 In the Conclusion 
-Does all of these Problems can't be fused/joined/unified into a single one Problem, which are relevant for everyone.
+Does all of these Problems can't be fused/joint/unified into a single one Problem, which are relevant for everyone.
 Three Problems and Three Samples given.
 
 Reference:
