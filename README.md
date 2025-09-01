@@ -33,7 +33,7 @@ Remarks. Does nowadays we already have too many of those Apps anyway?
 ##### In the Section of a "Declarations" states following "<...> $me = myname $0             or die "can't get myname"; <...>"
 
 According previous statement "Perl borrows syntax and concepts from <...> even English.". 
-Test Case: in Tech Translator machine, which is called Google Translator choosing English, typing single word "die", then choosing Influencers language and in the result we get between lines "If You can't tell me my name, then only <death> awaits You!". 
+Test Case: looking between pre-processors like PHP and Python and aligning used "Dictionary" and "meaning". The terminology could have KNOW-HOW information, that are similar and different between those pre-processors.
 Jargon from non-intelectual Side does not show Side of the Expert and could not be taken for Proffesional Language. Who would use such Programming Language, which does not have at least "Code of Ethics". Does even would it be rewised after period of time at least even slightly.
 
 #### [Official Perl Programming Language](https://perldoc.perl.org/perlsyn)
